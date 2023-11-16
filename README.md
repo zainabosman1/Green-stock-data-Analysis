@@ -11,7 +11,8 @@ The purpose of this analysis is to refactor existing VBA code to improve its eff
 
 ## Results 
 I. Stock Performance Comparison (2017 vs 2018): ![Screenshot (1)](https://github.com/zainabosman1/Green-stock-data-Analysis/assets/146840228/d94ffcee-6690-473f-b039-b5e92544ed03)
-![Screenshot (5)](https://github.com/zainabosman1/Green-stock-data-Analysis/assets/146840228/8a6eac32-1347-41b3-94fe-2dca5350efbb)
+
+![Screenshot (6)](https://github.com/zainabosman1/Green-stock-data-Analysis/assets/146840228/9066f9c6-f7ca-4e75-b553-1c7eac51743b)
 
 In the initial analysis, the code successfully provided insights into the stock performance for the years 2017 and 2018. By examining the opening and closing prices, as well as the total volume traded, we were able to assess the overall trends for individual stocks.
 
