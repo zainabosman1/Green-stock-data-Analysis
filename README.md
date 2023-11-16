@@ -10,7 +10,8 @@ In this project and analyisis, we’ll edit, or refactor, the Stock Market Datas
 The purpose of this analysis is to refactor existing VBA code to improve its efficiency and execution time. The initial code was designed to analyze a limited dataset of stocks, but now the goal is to expand it to cover the entire stock market over the past few years. By looping through the data once and collecting the required information, we aim to enhance the code's performance, specifically when dealing with a larger number of stocks. You can find the Excel bookwork for responding to macros in the following
 
 ## Results 
-I. Stock Performance Comparison (2017 vs 2018): ![Screenshot (1)](https://github.com/zainabosman1/Green-stock-data-Analysis/assets/146840228/d94ffcee-6690-473f-b039-b5e92544ed03)
+I. Stock Performance Comparison (2017 vs 2018):
+![Screenshot (1)](https://github.com/zainabosman1/Green-stock-data-Analysis/assets/146840228/d94ffcee-6690-473f-b039-b5e92544ed03)
 
 ![Screenshot (6)](https://github.com/zainabosman1/Green-stock-data-Analysis/assets/146840228/9066f9c6-f7ca-4e75-b553-1c7eac51743b)
 
