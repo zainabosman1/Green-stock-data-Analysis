@@ -11,9 +11,9 @@ The purpose of this analysis is to refactor existing VBA code to improve its eff
 
 ## Results 
 I. Stock Performance Comparison (2017 vs 2018):
-![Screenshot (1)](https://github.com/zainabosman1/Green-stock-data-Analysis/assets/146840228/d94ffcee-6690-473f-b039-b5e92544ed03)
-
-![Screenshot (6)](https://github.com/zainabosman1/Green-stock-data-Analysis/assets/146840228/9066f9c6-f7ca-4e75-b553-1c7eac51743b)
+Before 2017 ![Fist_2017](https://github.com/zainabosman1/Green-stock-data-Analysis/assets/146840228/0d284504-5a5d-4f77-be32-626c0704e805)
+Before 2018 ![Screenshot (6)](ht![first_2018](https://github.com/zainabosman1/Green-stock-data-Analysis/assets/146840228/061038b7-0bd8-4615-a10e-c09b89e19bc0)
+tps://github.com/zainabosman1/Green-stock-data-Analysis/assets/146840228/9066f9c6-f7ca-4e75-b553-1c7eac51743b)
 
 In the initial analysis, the code successfully provided insights into the stock performance for the years 2017 and 2018. By examining the opening and closing prices, as well as the total volume traded, we were able to assess the overall trends for individual stocks.
 
@@ -43,8 +43,8 @@ However, there are a few potential disadvantages to consider:
 
 In conclusion, refactoring code is a valuable practice that allows for the optimization and improvement of existing code. It offers advantages such as improved performance, scalability, and enhanced readability. However, it also requires careful consideration of potential disadvantages such as the time and effort involved and the need for compatibility with existing systems. Overall, refactoring code is an essential part of the coding process, ensuring that code remains efficient, maintainable, and adaptable to changing requirements.
 
-![Screenshot (7)](https://github.com/zainabosman1/Green-stock-data-Analysis/assets/146840228/ba7b888e-fc0d-4fde-a459-fe4d12eb337d)
+After 2017 ![Refactor_2017](https://github.com/zainabosman1/Green-stock-data-Analysis/assets/146840228/84606871-6f0f-4a0d-b05f-9800b471ad28)
+After 2018 ![Refactor_2018](https://github.com/zainabosman1/Green-stock-data-Analysis/assets/146840228/e92cf3ec-ee17-4e86-88f3-45d2e5b4f0ac)
 
-![Screenshot (8)](https://github.com/zainabosman1/Green-stock-data-Analysis/assets/146840228/34888a52-368c-4788-881d-32181fb8e564)
 
 [purpose of this analysis](green_stocks_zainabosman.xlsm)
